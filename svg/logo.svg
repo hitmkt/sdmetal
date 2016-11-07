@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg id="Layer_1" x="0px" y="0px" width="220.875px" height="29.562px" viewBox="0 0 220.875 29.562" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style id="bx-google-fonts">@import url(https://fonts.googleapis.com/css?family=Roboto:100,300,500,700,900,100italic,300italic,400,400italic,500italic,700italic,900italic);</style>
+  </defs>
+  <g>
+    <g transform="matrix(1, 0, 0, 1, 0.773433, -41.765388)">
+      <text x="29.324" y="68.165" style="font-size: 30px; font-family: Roboto; word-spacing: 0px; fill: rgb(60, 172, 178);">동작구 고물상</text>
+    </g>
+    <ellipse style="fill: rgb(60, 172, 178); fill-rule: nonzero;" cx="15.285" cy="15.013" rx="12.117" ry="12.504"/>
+  </g>
+</svg>
